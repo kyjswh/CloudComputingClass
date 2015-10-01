@@ -1,6 +1,6 @@
 # CloudComputingClass
-Course Programming Assignments for CloudComputingApplicationClass
-Primary Language: Java
+Course Programming Assignments for CloudComputingApplicationClass  
+Primary Language: Java  
 
 MP2: Hadoop MapReduce Implementation  
 MP3: Apache Storm Implementation  
